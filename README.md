@@ -11,8 +11,8 @@ After entering it shows your age and you are a child or an adult.
 And shows your age in days.
 
 # How to run this on your computer.
-⭕ Copy the age_in_days.cpp file here to your computer and save it as age_in_days.cpp
+⭕ Copy the "age_in_days.cpp" file here to your computer and save it as age_in_days.cpp
 
 ⭕ If your computer have Dev c++ software, run program using it.
 
-⭕ If you haven't download minGW software from https://sourceforge.net/projects/mingw/ this link.
+⭕ If you haven't go to https://www.onlinegdb.com/online_c_compiler and paste the copied code in "age_in_days.cpp".
